@@ -7,7 +7,7 @@
 - Merge Sort
 - Quick Sort
 - Heap Sort
--Binary Tree Sort
+- Binary Tree Sort
 
 ### Possible sorting to add:
 - Bucket Sort
