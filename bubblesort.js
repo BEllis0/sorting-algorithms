@@ -15,7 +15,6 @@ const bubbleSort = array => {
           array[z] = tempValue;
       }
     }
-  
     //return 
     return array;
   };
